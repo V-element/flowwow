@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<offers>
+	<offer id="42">
+		<name>Букет из 5 веточек розовой гипсофилы (N220)</name>
+		<price>2800.00</price>
+		<description/>
+		<param name="Ширина, см">50</param>
+		<param name="Высота, см">50</param>
+		<picture>https://disk.yandex.ru/d/y_CCZwPA0J-EoA/7-1.jpg</picture>
+		<picture>https://content3.flowwow-images.com/data/product_video/2d39c48b0df33562579a0553d15db96386454f6d/mobile.mp4</picture>
+		<consist name="Гипсофила (розовая)" unit="шт">5.00</consist>
+		<consist name="Фоамиран лист 60 х 70 (нежно-розовый)" unit="шт">1.00</consist>
+		<consist name="Бумага тишью рулон 58 см х 10 ярд, белый" unit="пог. м">1.00</consist>
+		<consist name="Лента атласная (25 мм х 25 ярд, нежно-розовый)" unit="шт">1.00</consist>
+		<consist name="Лента атласная (15 мм х 25 ярд, нежно-розовый)" unit="шт">1.00</consist>
+	</offer>
+</offers>
